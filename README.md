@@ -1,6 +1,5 @@
 ## Experimental Setup
-
-To reproduce the experiments performed for our study:
+This repository contains the code to reproduce the results of the study "Temporal Analysis of the AAVE Governance Token Transfer Network".
 
 ### Environment:
 Set up a Python `3.11.15` virtual environment.

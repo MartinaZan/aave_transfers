@@ -25,7 +25,7 @@ def main():
         with open(f"metrics.json", "w") as f:
             json.dump(metrics, f, default=str)
         with open(f"snapshots.pkl", "wb") as f:
-                pickle.dump(snapshots, f)
+            pickle.dump(snapshots, f)
     else:
         with open("metrics.json") as f:
             metrics = json.load(f)
