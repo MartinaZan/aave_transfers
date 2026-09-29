@@ -20,7 +20,7 @@ Or run the following command in the activated environment
 
 ## Execution Instruction
 
-To run the experiments, download the data from [https://osf.io/t8e73/overview?view_only=e7c9f69507cb4e81ad7752a07526e798](https://osf.io/t8e73/overview?view_only=5e7ff9853b2643cfb3bb928a5de4f3e4) in a `data` folder, and execute the command:
+To run the experiments, download the data from https://osf.io/t8e73/overview?view_only=5e7ff9853b2643cfb3bb928a5de4f3e4 in a `data` folder, and execute the command:
 
 `python main.py`
 
